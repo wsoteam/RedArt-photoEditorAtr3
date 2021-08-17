@@ -18,23 +18,23 @@ object DBWorker {
 
                     override fun onCancelled(p0: DatabaseError) {
                         dbCallbacks.onError()
-                        Log.e("LOL", "onCancelled")
+                        //Log.e("LOL", "onCancelled")
                     }
 
                     override fun onDataChange(p0: DataSnapshot) {
-                        Log.e("LOL", "onDataChange")
+                       // Log.e("LOL", "onDataChange")
                         if (p0.getValue(String::class.java) != null) {
                             val url : String = p0.getValue(String::class.java) ?: ""
-                            Log.e("LOL", url)
+                          //  Log.e("LOL", url)
                             if (url == ""){
-                                Log.e("LOL", "Error")
+                              //  Log.e("LOL", "Error")
                                 dbCallbacks.onError()
                             }else{
-                                Log.e("LOL", "Success")
+                               // Log.e("LOL", "Success")
                                 dbCallbacks.onSuccess(url)
                             }
                         } else {
-                            Log.e("LOL", "Error")
+                           // Log.e("LOL", "Error")
                             dbCallbacks.onError()
                         }
                     }
