@@ -20,11 +20,11 @@ class SplashAct : AppCompatActivity(R.layout.activity_splash) {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
 
-       //startWhiteScreen()///
+       //startWhiteScreen()
 
 
         Analytics.open()
-        //createNewDirectory()
+
         vm = ViewModelProviders.of(this).get(SplashVM::class.java)
         vm.getStatusLD().observe(this, Observer {
             when (it) {
