@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "113731238961",
+    "project_id": "photoeditorart3",
+    "storage_bucket": "photoeditorart3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:113731238961:android:fefda29a3b762509d5e910",
+        "android_client_info": {
+          "package_name": "red.likephotoart.photoilike"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "113731238961-ag2p9blbvs5l1di7ra704sk751003m51.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDITn1pPGTFnn3S-9hAaBMVovU60tLDJUY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "113731238961-ag2p9blbvs5l1di7ra704sk751003m51.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

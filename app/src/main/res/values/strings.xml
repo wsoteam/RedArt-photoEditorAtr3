@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Photo Editor</string>
+    <string name="title">title</string>
+    <string name="action_open">Open</string>
+    <string name="action_save">Save</string>
+    <string name="action_apply">Apply</string>
+    <string name="action_clear">Clear</string>
+    <string name="action_reset">Reset</string>
+
+
+    <string name="aps_id" translatable="false">fTHMhfusDFFptFAiXDJ2fU</string>
+
+    <string name="facebook_app_id">544236159960640</string>
+    <string name="fb_login_protocol_scheme">fb544236159960640</string>
+</resources>
