@@ -11,7 +11,7 @@ object DBWorker {
 
 
         FirebaseDatabase
-                .getInstance("https://photoeditorart3-default-rtdb.firebaseio.com/")
+                .getInstance("https://artphoto-f71ae-default-rtdb.firebaseio.com/")
                 .reference
                 .child(path)
                 .addListenerForSingleValueEvent(object : ValueEventListener {

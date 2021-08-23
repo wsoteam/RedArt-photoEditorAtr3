@@ -1,33 +1,33 @@
 {
   "project_info": {
-    "project_number": "113731238961",
-    "project_id": "photoeditorart3",
-    "storage_bucket": "photoeditorart3.appspot.com"
+    "project_number": "1056306096497",
+    "project_id": "artphoto-f71ae",
+    "storage_bucket": "artphoto-f71ae.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:113731238961:android:fefda29a3b762509d5e910",
+        "mobilesdk_app_id": "1:1056306096497:android:4f1688d420b0710645aed0",
         "android_client_info": {
           "package_name": "red.likephotoart.photoilike"
         }
       },
       "oauth_client": [
         {
-          "client_id": "113731238961-ag2p9blbvs5l1di7ra704sk751003m51.apps.googleusercontent.com",
+          "client_id": "1056306096497-8f9k4svpav4559gdpim6de2ievvsp2ju.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyDITn1pPGTFnn3S-9hAaBMVovU60tLDJUY"
+          "current_key": "AIzaSyBTq3dah16S6msrDxUpyX41H_m1Arxh2rQ"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "113731238961-ag2p9blbvs5l1di7ra704sk751003m51.apps.googleusercontent.com",
+              "client_id": "1056306096497-8f9k4svpav4559gdpim6de2ievvsp2ju.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
